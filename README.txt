@@ -4,6 +4,7 @@ for providing the tutorial necessary to complete this project.
 
 This project is for ETSU's ACM Game Jam Spring 2023.
 It lasted from late February to late March.
+I worked on this project from March 9,2023 to March 20, 2023.
 
 THEME: Time is Power.
 It's Breakout, but MLG.
@@ -78,3 +79,11 @@ Online Tools:
 	https://www.bestmp3converter.com/ - Converting the Music above (provided by YouTube) into MP3 Files.
 	https://mp3cut.net/		    - Editing Music down to reduce audio length and size.
 
+(Intentional) Bugs:
+The ball sometimes doesn't bounce off bricks correctly.
+	- PWN Mode allows the ball to ignore Newton's 3rd Law and blaze through bricks!
+	- A fast enough speed causes the ball to bounce left-right instead of up-down (time is power!).
+	- Snipe Mode happens when there are less than 1/8 of bricks remaining. (time is power!)
+		
+The paddle gets larger after some time
+	- this is an intentional mechanic to improve the gameplay.
