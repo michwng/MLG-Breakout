@@ -1,0 +1,3 @@
+add more sounds!
+add background images.
+work on snipemode.
