@@ -8,6 +8,7 @@ I worked on this project from March 9,2023 to March 20, 2023.
 
 THEME: Time is Power.
 It's Breakout, but MLG.
+(Less) Time is Power!
 
 How does this project fit the theme?
 - At first, the hitsounds sound weak. They're little taps.
@@ -61,11 +62,19 @@ Coding Help:
 	Audio() Documentation:
 		https://www.w3schools.com/jsref/met_audio_play.asp
 
+	Detecting Middle Click
+		https://stackoverflow.com/questions/21224327/how-to-detect-middle-mouse-button-click
+
+	Getting the Width of Text in the Canvas
+		https://stackoverflow.com/questions/118241/calculate-text-width-with-javascript
+
+	Displaying a Video in the Canvas
+		https://stackoverflow.com/questions/4429440/html5-display-video-inside-canvas
+
 	Adding a video to the canvas.
 		https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas
 
-	Detecting Middle Click
-		https://stackoverflow.com/questions/21224327/how-to-detect-middle-mouse-button-click
+	
 
 Music:
 	https://youtu.be/2gIViY655Og - Sniper Sound provided by Peyton gaming
@@ -73,11 +82,20 @@ Music:
 	https://youtu.be/Cserwt5jvHg - Background music provided by No Copyright Background Music
 
 
-	https://youtu.be/30ROo_CAnto - MLG Sniper Background Music 2 provided by The Lihzarhd King ( This was copyrighted, so I replaced it )
+Video:
+	https://youtu.be/4bjliCePDXY - Sniper Green Screen provided by MSP - XBoysX
+	
 
 Online Tools:
-	https://www.bestmp3converter.com/ - Converting the Music above (provided by YouTube) into MP3 Files.
-	https://mp3cut.net/		    - Editing Music down to reduce audio length and size.
+	https://www.bestmp3converter.com/ 	- Converting the Music above (provided by YouTube) into MP3 Files.
+	https://mp3cut.net/		    		- Editing Music down to reduce audio length and size.
+	https://iyoutubetomp4.com/en2/		- Converting the YouTube video into an MP4 File.
+	https://cloudconvert.com/mp4-to-gif - Converting an MP4 File to a GIF.
+	https://www.bestmp3converter.com/	- Converting an MP4 to MP3.
+
+
+Free Software Used:
+	Clip Champ		- Video Editor provided by Windows 11.
 
 (Intentional) Bugs:
 The ball sometimes doesn't bounce off bricks correctly.
@@ -87,3 +105,35 @@ The ball sometimes doesn't bounce off bricks correctly.
 		
 The paddle gets larger after some time
 	- this is an intentional mechanic to improve the gameplay.
+
+The green screen when the ball hits a brick in snipe Mode
+	- I have tried to fix this bug, but it was not worth it.
+	- Every solution I tried threw a cross-origin error that I couldn't fix OR
+	- it left the video in a black screen.
+
+
+
+
+Version History
+
+	Version 1.0
+	- Stable version of project. 
+	- Contained basic breakout functionality with background, hitmarkers, hitmarker audio, and automode/pwnMode/snipeMode.
+
+	Version 1.2
+	- Branches off Version 1.0 to add more features.
+	
+		Features
+		- Includes additions to SnipeMode, adding a video overlay "sniping" the brick upon collision.
+		- Added Wombo Combo effect. Whenever you hit more than 10 bricks with 1 paddle bounce, you get the wombo combo sound.
+			- Don't worry - Wombo Combo is easy to achieve.
+		- Added Colorblind mode to remove the background image.
+			- Activate it by pressing C.
+
+		Bug Fixes
+		- Fixed bugs with pausing the game - it didn't actually pause the game.
+	
+		Code Changes
+		- Added comments as much as possible. This project should be understood by rookies to JavaScript.
+		- Rearranged functions and code to appropriate locations under comment headers.
+		- Updated the index.html file comment header to include the version. 
