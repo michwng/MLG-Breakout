@@ -4,7 +4,7 @@ for providing the tutorial necessary to complete this project.
 
 This project is for ETSU's ACM Game Jam Spring 2023.
 It lasted from late February to late March.
-I worked on this project from March 9,2023 to March 20, 2023.
+I worked on this project from March 9,2023 to March 21, 2023.
 
 THEME: Time is Power.
 It's Breakout, but MLG.
@@ -97,6 +97,8 @@ Online Tools:
 Free Software Used:
 	Clip Champ		- Video Editor provided by Windows 11.
 
+
+
 (Intentional) Bugs:
 The ball sometimes doesn't bounce off bricks correctly.
 	- PWN Mode allows the ball to ignore Newton's 3rd Law and blaze through bricks!
@@ -111,8 +113,11 @@ The green screen when the ball hits a brick in snipe Mode
 	- Every solution I tried threw a cross-origin error that I couldn't fix OR
 	- it left the video in a black screen.
 
-
-
+The sniper sound is sometimes cut off.
+	- This is a result of cutting down the video's size.
+	- The video plays both the image and audio .
+		- the program plays the sniper audio sound as well.
+	- I left it like this to enhance the sniper sound.
 
 Version History
 
