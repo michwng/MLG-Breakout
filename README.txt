@@ -2,6 +2,13 @@ Special Thanks to
 https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
 for providing the tutorial necessary to complete this project.
 
+HOW TO PLAY:
+1. Download the entire folder as a ZIP file. (Do this by pressing the "Code" button on the top right and clicking on "Download ZIP" in the menu)
+2. Once it's done downloading, extract all the files.
+3. Open index.html using a web browser. 
+4. Start playing MLG Breakout in the web browser!
+
+
 This project is for ETSU's ACM Game Jam Spring 2023.
 It lasted from late February to late March.
 I worked on this project from March 9,2023 to March 20, 2023.
