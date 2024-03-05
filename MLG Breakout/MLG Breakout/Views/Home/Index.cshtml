@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "MLG Breakout";
+}
+
+<!--
+ * -------------------------------------------------------------------
+ *  File name:      index.html
+ *  Project name:   MLG Breakout
+ * -------------------------------------------------------------------
+ *      Author's name and email:	Michael Ng, mwnmwn07@gmail.com
+ *        A personal project for ETSU ACM Game Jam Spring 2023.
+ *
+ *      Creation Date:              3/9/2023
+ *      Last Modified:              3/5/2024
+ *      Description:                This webpage serves as the main page for the breakout game.
+ *      Tutorial Used:             https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+ *      Version:                    V1.2
+ * -------------------------------------------------------------------
+-->
+
+
+<!-- The body will contain everything
+    that will show the breakout game. -->
+<body>
+
+
+    <!--=============================-->
+    <!-------    AUDIO FILES    ------->
+    <!--=============================-->
+    <!-- The Background Music - MLG Sniper Background Music -->
+    <audio id="BackgroundMusic" autoplay mutable="muted" loop>
+        <!-- <source src="MLG Sniper Background Music 2.mp3" type="audio/mpeg"> -->
+        <source src="/audio/Energetic Hype Bass Chaos by Damtaro.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- The Hitmarker Sound. A unique TOUCH! -->
+    <audio id="HitmarkerSound">
+        <source src="/audio/hitmarkersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- The Hitmarker Sound. A unique TOUCH! -->
+    <audio id="HitmarkerSound2">
+        <source src="/audio/hitmarkersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- The Hitmarker Sound. A unique TOUCH! -->
+    <audio id="HitmarkerSound3">
+        <source src="/audio/hitmarkersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- The Hitmarker Sound. A unique TOUCH! -->
+    <audio id="HitmarkerSound4">
+        <source src="/audio/hitmarkersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- The Hitmarker Sound. A unique TOUCH! -->
+    <audio id="HitmarkerSound5">
+        <source src="/audio/hitmarkersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- The Hitmarker Sound. A unique TOUCH! -->
+    <audio id="HitmarkerSound6">
+        <source src="/audio/hitmarkersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- A Sniper Sound. A unique TOUCH! -->
+    <audio id="SniperSound">
+        <source src="/audio/snipersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- A Sniper Sound. A unique TOUCH! -->
+    <audio id="SniperSound2">
+        <source src="/audio/snipersound.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+
+    <!-- A Sniper Sound. A unique TOUCH! -->
+    <audio id="WomboCombo">
+        <source src="/audio/WomboCombo.mp3" type="audio/mpeg">
+        This audio element is not supported.
+    </audio>
+    <!--===================================-->
+    <!-------    (END) AUDIO FILES    ------->
+    <!--===================================-->
+
+    <!--=============================-->
+    <!-------    VIDEO FILES    ------->
+    <!--=============================-->
+    <!-- A Green Screen Sniper Video. A unique TOUCH! -->
+    <video id="SnipeVideo" controls width="200" height="120" hidden>
+        <source src="/clips/GreenScreenSniperShorter.mp4" type="video/mp4">
+    </video>
+    <!--===================================-->
+    <!-------    (END) VIDEO FILES    ------->
+    <!--===================================-->
+
+    <!-- Create a canvas that is 720px wide and 600px high. -->
+    <!-- This canvas can easily be referenced as myCanvas. -->
+    <canvas id="myCanvas" width="720" height="600" style="background: #eee; display: block; margin: 0 auto;"></canvas>
+    <div style="display: flex; justify-content: center;">
+        <button style="width: 360px; height: 100px" onclick="increaseSpeed()">Speed Up!</button>
+        <button style="width: 360px; height: 100px" onclick="decreaseSpeed()">Slow Down!</button>
+    </div>
+
+
+</body>

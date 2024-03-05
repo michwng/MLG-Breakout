@@ -1,0 +1,30 @@
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\appsettings.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\MLG Breakout.staticwebassets.runtime.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\MLG Breakout.exe
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\MLG Breakout.deps.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\MLG Breakout.runtimeconfig.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\MLG Breakout.dll
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\bin\Debug\net8.0\MLG Breakout.pdb
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.AssemblyInfoInputs.cache
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.AssemblyInfo.cs
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.csproj.CoreCompileInputs.cache
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.RazorAssemblyInfo.cache
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.RazorAssemblyInfo.cs
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\staticwebassets\msbuild.MLG Breakout.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\staticwebassets\msbuild.build.MLG Breakout.props
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MLG Breakout.props
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MLG Breakout.props
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\scopedcss\bundle\MLG Breakout.styles.css
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\scopedcss\projectbundle\MLG Breakout.bundle.scp.css
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.dll
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\refint\MLG Breakout.dll
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.pdb
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\MLG Breakout.genruntimeconfig.cache
+C:\Users\mwnmw\OneDrive\Documents\All Coding Projects\JavaScript Projects\MLG Breakout\MLG Breakout\obj\Debug\net8.0\ref\MLG Breakout.dll

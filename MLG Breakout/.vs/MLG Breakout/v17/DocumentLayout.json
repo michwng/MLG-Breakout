@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mwnmw\\OneDrive\\Documents\\All Coding Projects\\JavaScript Projects\\MLG Breakout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1505CAED-C162-4836-80CD-4B39C75D368E}|MLG Breakout\\MLG Breakout.csproj|c:\\users\\mwnmw\\onedrive\\documents\\all coding projects\\javascript projects\\mlg breakout\\mlg breakout\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1505CAED-C162-4836-80CD-4B39C75D368E}|MLG Breakout\\MLG Breakout.csproj|solutionrelative:mlg breakout\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505CAED-C162-4836-80CD-4B39C75D368E}|MLG Breakout\\MLG Breakout.csproj|c:\\users\\mwnmw\\onedrive\\documents\\all coding projects\\javascript projects\\mlg breakout\\mlg breakout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1505CAED-C162-4836-80CD-4B39C75D368E}|MLG Breakout\\MLG Breakout.csproj|solutionrelative:mlg breakout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505CAED-C162-4836-80CD-4B39C75D368E}|MLG Breakout\\MLG Breakout.csproj|c:\\users\\mwnmw\\onedrive\\documents\\all coding projects\\javascript projects\\mlg breakout\\mlg breakout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1505CAED-C162-4836-80CD-4B39C75D368E}|MLG Breakout\\MLG Breakout.csproj|solutionrelative:mlg breakout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mwnmw\\OneDrive\\Documents\\All Coding Projects\\JavaScript Projects\\MLG Breakout\\MLG Breakout\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MLG Breakout\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mwnmw\\OneDrive\\Documents\\All Coding Projects\\JavaScript Projects\\MLG Breakout\\MLG Breakout\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MLG Breakout\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-05T17:19:56.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mwnmw\\OneDrive\\Documents\\All Coding Projects\\JavaScript Projects\\MLG Breakout\\MLG Breakout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MLG Breakout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mwnmw\\OneDrive\\Documents\\All Coding Projects\\JavaScript Projects\\MLG Breakout\\MLG Breakout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MLG Breakout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T16:54:33.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mwnmw\\OneDrive\\Documents\\All Coding Projects\\JavaScript Projects\\MLG Breakout\\MLG Breakout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MLG Breakout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mwnmw\\OneDrive\\Documents\\All Coding Projects\\JavaScript Projects\\MLG Breakout\\MLG Breakout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MLG Breakout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T16:52:18.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
